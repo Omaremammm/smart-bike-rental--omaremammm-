@@ -6,7 +6,7 @@ Software Engineering - GIU Cairo - Milestone 2
 
 | Name | ID | Role in team |
 |------|----|--------------|
-| Omar <last name> | <your GIU id> | Team leader (solo team) |
+| Omar Emam | <your 19011610> |  |
 
 ## ERD
 
