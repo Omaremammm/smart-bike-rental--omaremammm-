@@ -1,4 +1,4 @@
-# Smart Bike Rental App - Omar
+# Smart Bike Rental App -
 
 Software Engineering - GIU Cairo - Milestone 2
 
