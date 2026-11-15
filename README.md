@@ -8,6 +8,14 @@ Software Engineering - GIU Cairo - Milestone 2
 |------|----|
 | Omar Emam | 19011610 |
 | Ali hossam mohamed | 19002315 |
+| Omar Khaled | 7004850 |
+| Omar osama | 19001364 |
+| Loaei ahmed abdelmohsen | 16002429 |
+| Abdullah Amer | 16004895 |
+| Salman Mohammad Ali | 16004173 |
+| Khalil zayed | 19008620 |
+
+
 
 ## ERD
 
